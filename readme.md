@@ -21,8 +21,8 @@ This project is a simple RESTful API built with Node.js and Express.js that fetc
 ### Installation Steps
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/random-image-joke-api.git
-    cd random-image-joke-api
+    git clone (https://github.com/DeepaNikade/ApiFetching)
+    cd ApiFetching
     ```
 
 2. **Install dependencies:**
